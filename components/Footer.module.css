@@ -2,7 +2,7 @@
 .wrapper {
   display: flex;
   flex-direction: column;
-  min-height: 30vh; /* Make sure the wrapper takes up at least the full viewport height */
+  min-height: 50vh; /* Make sure the wrapper takes up at least the full viewport height */
 }
 
 .content {
